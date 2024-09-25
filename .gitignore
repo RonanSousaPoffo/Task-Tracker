@@ -1,2 +1,26 @@
 /Notes.txt
 /firebase/firebase-credentials.json
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+
+# Visual Studio files
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# NuGet Packages
+*.nupkg
+packages/
+
+# Logs
+*.log
+
+# Environment Files
+.env
+

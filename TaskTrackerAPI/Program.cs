@@ -1,3 +1,6 @@
+using FirebaseAdmin;
+using Google.Apis.Auth.OAuth2;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -6,6 +9,18 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
+
+
+
+// Inicializa o Firebase Admin SDK
+var firebaseCredentialPath = builder.Configuration["Firebase:CredentialPath"];
+FirebaseApp.Create(new AppOptions
+{
+    Credential = GoogleCredential.FromFile(firebaseCredentialPath)
+});
+
+
+
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())

@@ -32,3 +32,14 @@ C:\Users\Ronan\Desktop\Task-Tracker\TaskTrackerAPI\obj\Debug\net8.0\refint\TaskT
 C:\Users\Ronan\Desktop\Task-Tracker\TaskTrackerAPI\obj\Debug\net8.0\TaskTrackerAPI.pdb
 C:\Users\Ronan\Desktop\Task-Tracker\TaskTrackerAPI\obj\Debug\net8.0\TaskTrackerAPI.genruntimeconfig.cache
 C:\Users\Ronan\Desktop\Task-Tracker\TaskTrackerAPI\obj\Debug\net8.0\ref\TaskTrackerAPI.dll
+C:\Users\Ronan\Desktop\Task-Tracker\TaskTrackerAPI\bin\Debug\net8.0\FirebaseAdmin.dll
+C:\Users\Ronan\Desktop\Task-Tracker\TaskTrackerAPI\bin\Debug\net8.0\Google.Api.Gax.dll
+C:\Users\Ronan\Desktop\Task-Tracker\TaskTrackerAPI\bin\Debug\net8.0\Google.Api.Gax.Rest.dll
+C:\Users\Ronan\Desktop\Task-Tracker\TaskTrackerAPI\bin\Debug\net8.0\Google.Apis.dll
+C:\Users\Ronan\Desktop\Task-Tracker\TaskTrackerAPI\bin\Debug\net8.0\Google.Apis.Auth.dll
+C:\Users\Ronan\Desktop\Task-Tracker\TaskTrackerAPI\bin\Debug\net8.0\Google.Apis.Core.dll
+C:\Users\Ronan\Desktop\Task-Tracker\TaskTrackerAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ronan\Desktop\Task-Tracker\TaskTrackerAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Ronan\Desktop\Task-Tracker\TaskTrackerAPI\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Ronan\Desktop\Task-Tracker\TaskTrackerAPI\bin\Debug\net8.0\System.Management.dll
+C:\Users\Ronan\Desktop\Task-Tracker\TaskTrackerAPI\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Management.dll
